@@ -1,0 +1,2 @@
+# konya
+Konya Webtasarım Merkezi
